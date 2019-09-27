@@ -32,5 +32,9 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
+  },
+  "scripts": {
+    "build": "express build --output public"
   }
+  
 }
